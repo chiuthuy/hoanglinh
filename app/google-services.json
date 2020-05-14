@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314220091753",
+    "firebase_url": "https://novel-database-7d363.firebaseio.com",
+    "project_id": "novel-database-7d363",
+    "storage_bucket": "novel-database-7d363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314220091753:android:f225bb625504412bd385f8",
+        "android_client_info": {
+          "package_name": "com.dev.novel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314220091753-iels7hhbpbjk0mpt13jikk0mo42lmnh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.novel",
+            "certificate_hash": "d50eb43be66c3348b3fc0bc832553a25ed8cc78a"
+          }
+        },
+        {
+          "client_id": "314220091753-1vtjaa07q65ideao2nc6i1h84nkjdft5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFUXi2cwNB7iqHogn3IK2EfyCwQGUIKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314220091753-1vtjaa07q65ideao2nc6i1h84nkjdft5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
